@@ -15,4 +15,8 @@ ignorePorts = false
 
 [[ports]]
 localPort = 3000
+
+[[ports]]
+localPort = 5173
 externalPort = 80
+exposeLocalhost = true

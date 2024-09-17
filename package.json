@@ -1,0 +1,13 @@
+{
+  "name": "full-stack-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run remix-app:dev",
+    "remix-app:dev": "cd my-remix-app && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
